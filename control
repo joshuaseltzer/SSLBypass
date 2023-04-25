@@ -1,7 +1,7 @@
 Package: com.evilpenguin.sslbypass
 Name: SSLBypass
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.1-cobra2168
 Architecture: iphoneos-arm
 Description: SSLBypass will bypass SSL pinning from iOS 8 - 14
 Maintainer: EvilPenguin
